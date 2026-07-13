@@ -15,7 +15,7 @@
 - WindowsPC(他機種での動作は保証していません)
 - Chromium製ブラウザ(Firefox等未対応です)
 - Gemini APIキー(Google AI Studio等で必須です)
-- Discord Webhook URL(エラーや成功時のログを送信する際に必要ですが、**任意`**です。)
+- Discord Webhook URL(エラーや成功時のログを送信する際に必要ですが、**任意**です。)
 
 ## サポートについて
 Rec877Dev公式サーバーでどうぞ。
